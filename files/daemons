@@ -1,0 +1,22 @@
+# Power / Performance
+acpid
+lm_sensors
+preload
+cpupower
+irqbalance
+
+# Network
+NetworkManager
+snmpd
+ntpd
+sshd
+deluged
+deluge-web
+smbd
+nmbd
+winbindd
+
+# Misc
+cronie
+lxdm
+mdadm
